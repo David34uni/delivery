@@ -1,0 +1,16 @@
+[
+    {
+        "USER": {
+            "nombre": "David",
+            "primerApellido": "Escobedo",
+            "segundoApellido":"Villa"
+        }
+    },
+   {
+        "USER": {
+            "nombre": "David",
+            "primerApellido": "Escobedo",
+            "se gundoApellido":"Villa"
+        }
+    }
+]
