@@ -4,7 +4,6 @@ public class UserExample {
     private String title;
     private String body;
     
-    
     public int getUserId(){
         return this.userId;
 
